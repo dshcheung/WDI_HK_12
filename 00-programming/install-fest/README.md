@@ -119,13 +119,17 @@ $ brew install git
 
 ##### Configure Git
 ```
-$ git config -—global user.name  “YOUR NAME”
-$ git config —-global user.email “YOUR@EMAIL.COM”
+$ git config --global user.name  "YOUR NAME"
+$ git config --global user.email "YOUR@EMAIL.COM"
+$ git config --global credential.helper osxkeychain
 ```
 
 ##### Tell git what editor to use for commits
 - For Sublime
 `$ git config —-global core.editor "subl —wait —new-window"`
+
+##### Using SSH instead of HTTPS
+checkout this link to setup SSH [https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
 #### RBENV (Ruby Version Manager)
 - Install RBENV
