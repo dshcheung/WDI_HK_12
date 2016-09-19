@@ -121,3 +121,41 @@
 | -                                        | -                                       | -                                       | -                                       | *JS CHANGE FREEZE*                      |
 | -                                        | -                                       | -                                       | -                                       | Final touch up (HTML & CSS)             |
 | -                                        | -                                       | -                                       | -                                       | Presentation                            |
+
+<a name="week4"></a>
+### Week 4 | Node.js First Steps
+
+| [Monday](#w4d1)                          | [Tuesday](#w4d2)                        | [Wednesday](#w4d3)                      | [Thursday](#w4d4)                       | [Friday](#w4d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Week 1-3 Retrospective                   | [Node.js: First steps][4-2A]            | [RLab: Express Routes][4-2C]            | Review JSON & AJAX                      | [RLab: Mongo Restaurants][4-4C]         |
+| -                                        | -                                       | -                                       |                                         | [Node.js: Models with Mongoose][4-5A]   |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| Project 1 Feedback                       | [Node.js: Jade templating][4-2B]        | Node.js: JSON                           | [MongoDB: Setup][4-4A]                  | [HLab: Mongoose Modeling][4-5B]         |
+| How to structure code                    | [HLab: Express Routes][4-2C]            | Node.js: AJAX                           | [MongoDB: Basics][4-4B]                 | -                                       |
+| -                                        | -                                       | -                                       | [ILab: Mongo Restaurants][4-4C]         | -                                       |
+
+[4-2A]: 04-node.js/node-express-intro                                          "Node.js: First Steps"
+[4-2B]: https://www.sitepoint.com/jade-tutorial-for-beginners/                 "Node.js: Jade intro"
+[4-2C]: https://github.com/wdi-hk-12/lab-express-routing                       "HLab: Express Routes"
+
+[4-4A]: 05-databases/mongodb/setup.md                                          "MongoDB: Setup"
+[4-4B]: 05-databases/mongodb/basics.md                                         "MongoDB: Basics"
+[4-4C]: https://github.com/wdi-hk-12/lab-mongo-restaurants                     "ILab: Mongo Restaurants"
+
+[4-5A]: 04-node.js/node-express-mongo-models-lesson                            "Node.js: Mongoose"
+[4-5B]: https://github.com/wdi-hk-12/lab-node-express-mongo-modeling           "HLab: Mongoose Modeling"
+
+<a name="week5"></a>
+### Week 5 | Node.js Hackathon
+
+| [Monday](#w5d1)                          | [Tuesday](#w5d2)                        | [Wednesday](#w5d3)                      | [Thursday](#w5d4)                       | [Friday](#w4d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Node.js: Passport                        | Model View Controller                   | Node.js: Hackathon Starter              | Node.js: Middelware                     | Project Spec                            |
+| -                                        | -                                       | -                                       | Node.js: Socket.io ?                    | -                                       |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| Node.js: Social login                    | Labs                                    | Labs                                    | [Node.js: Heroku][5-4A]                 | -                                       |
+|[HLab: Node.js - Passports][5-1A]         | -                                       | -                                       | -                                       | -                                       |
+| -                                        | -                                       | -                                       | -                                       | -                                       |
+
+[5-1A]: https://github.com/wdi-hk-12/nodejs-passport                                          "Node.js: Passport"
+[5-4A]: 04-node.js/node-deployment-heroku                                                     "Node.js: Heroku"
