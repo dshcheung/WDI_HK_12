@@ -1,4 +1,4 @@
-# Assessment W1/D2 Solution
+# Assessment
 
 1. Homebrew is a package management system that highly simplifies the installation of softwares needed for our coding evnornment.
 1. `rbenv` is a Ruby language package manager that helps us pick specific Ruby builds to match our development/production needs.

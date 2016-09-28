@@ -1,4 +1,4 @@
-# Assessment W1/D5
+# Assessment
 
 ## JS Part I
 1. String, Integer, Float, Boolean
