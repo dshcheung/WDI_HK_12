@@ -6,9 +6,9 @@ var isPalindrome = function (num) {
   return num.split('').reverse().join('') === num ? true : false;
 };
 
-var findLargestPalindrome = function (num, squareNum) {
+var findLargestPalindrome = function (num, doSquareNum) {
   for (var i = num; i > 0; i--) {
-    var product = squareNum ? i * i : num * i ;
+    var product = doSquareNum ? i * i : num * i ;
 
     if (isPalindrome(product)) {
       return product;
