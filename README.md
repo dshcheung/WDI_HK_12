@@ -70,6 +70,7 @@
   - Read [20 things I've learned about browsers and the web](http://www.20thingsilearned.com/en-US/home)
   - Try the typing exercises on [typing.io](https://www.typing.io/) and see how fast you type code
   - Watch [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA) to how DNS works
+  - Watch [So You Want to be a Developer (part 1)](https://www.youtube.com/watch?v=WCuUWGmatpU) & [So You Want to be a Developer (part 2)](https://www.youtube.com/watch?v=kqFcF_jRrx0)
 
 <a name="week2"></a>
 ### Week 2 | Front-end Fundamentals
