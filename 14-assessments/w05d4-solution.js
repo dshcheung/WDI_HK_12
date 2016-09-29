@@ -6,24 +6,27 @@ var isPalindrome = function (num) {
   return num.split('').reverse().join('') === num ? true : false;
 };
 
-var findLargestPalindrome = function (num, doSquareNum) {
-  for (var i = num; i > 0; i--) {
-    var product = doSquareNum ? i * i : num * i ;
-
-    if (isPalindrome(product)) {
-      return product;
-    }
-  }
-
-  return 1;
-};
-
 var getLargestPalindrome = function (digits) {
   var limitStr           = "9".repeat(digits);
   var limit              = parseInt(limitStr);
+  var largest            = 0;
 
-  var largestPalindrome1 = findLargestPalindrome(limit, false);
-  var largestPalindrome2 = findLargestPalindrome(limit, true);
+  for (var i = limit; i > 0; i--) {
+    for (var k = limit; k > 0; k--) {
+      var product = i * k;
 
-  return largestPalindrome1 > largestPalindrome2 ? largestPalindrome1 : largestPalindrome2;
+      if (product < largest) {
+        k = 0;
+      } else if (isPalindrome(product) && product > largest) {
+        largest = product;
+      }
+    }
+  }
+
+  return largest;
 };
+
+var start = new Date();
+console.log(getLargestPalindrome(5));
+var end   = new Date();
+console.log(end - start);
