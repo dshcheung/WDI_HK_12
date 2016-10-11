@@ -205,11 +205,11 @@
 | [Monday](#w7d1)                           | [Tuesday](#w7d2)                        | [Wednesday](#w7d3)                      | [Thursday](#w7d4)                       | [Friday](#w7d5)                         |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
 | [R-Lab: Find Carmen Sandiego][7-5D]       | [R-Lab: ActiveRecord Finders][8-1D]     | [R-Lab: Modeling Relationshoips][8-2D]  | [Lab: Layouts, partials, views][8-3C]   | [Authentication with Devise][8-5A]      |
-| [ActiveRecord and Migrations][8-1A]       | [+What is MVC?][8-2A]                   | [Controllers and Routes in Rails][8-3A] | [Rails API][8-4A]                       | [Photo Upload - Paperclip Gem][8-5B]    |
+| [ActiveRecord and Migrations][8-1A]       | [Modeling Relationships][8-2C]          | [Controllers and Routes in Rails][8-3A] | [Rails API][8-4A]                       | [Photo Upload - Paperclip Gem][8-5B]    |
 | LUNCH                                     | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
-| [ILab: ActiveRecord and Migrations][8-1B] | [Intro to Rails][8-2B]                  | [+Layouts, partials, and views][8-3B]   | -                                       | [Heroku][8-5C]                          |
-| [ActiveRecord Methods and Finders][8-1C]  | [Modeling Relationships][8-2C]          | [+ILab: Layouts, partials, views][8-3C] | -                                       | [Project 3 Spec][8-5D]                  |
-| [HLab: ActiveRecord Finders][8-1D]        | [ILab: Modeling Relationships][8-2D]    | [Read: MVC GUIDE][8-3D]                 | -                                       | -                                       |
+| [ILab: ActiveRecord and Migrations][8-1B] | [ILab: Modeling Relationships][8-2D]    | [+Layouts, partials, and views][8-3B]   | -                                       | [Heroku][8-5C]                          |
+| [ActiveRecord Methods and Finders][8-1C]  | [+What is MVC?][8-2A]                   | [+ILab: Layouts, partials, views][8-3C] | -                                       | [Project 3 Spec][8-5D]                  |
+| [HLab: ActiveRecord Finders][8-1D]        | [Intro to Rails][8-2B]                  | [Read: MVC GUIDE][8-3D]                 | -                                       | -                                       |
 | -                                         | [Seed & Faker][8-2E]                    | -                                       | -                                       | -                                       |
 
 [8-1A]: 07-rails/rails-activerecord-models-migrations-lesson                         "Building Models with ActiveRecord and Migrations"
