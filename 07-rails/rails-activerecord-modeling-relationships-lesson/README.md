@@ -49,7 +49,7 @@ The relationships will be:
 * Genre has many albums
 * Genre has many artists through albums
 
-Take a look at your [starter_code](https://github.com/wdi-hk-11/lesson-rails-activerecord-modeling-relationships). For our purposes, we're going to keep the empty models and the migrations.
+Take a look at your [starter_code](https://github.com/wdi-hk-12/lesson-rails-activerecord-modeling-relationships). For our purposes, we're going to keep the empty models and the migrations.
 
 > Note: Describe require_relative, controllers if needed, auto_reload, and app
 
