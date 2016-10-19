@@ -18,6 +18,8 @@
 
 ## Intro - Routing in Rails (20 mins)
 
+fork (this)[https://github.com/WDI-HK-12/lesson-rails-routes-controllers-views]
+
 In this lesson, we are going to talk about "routing" with a focus around the MVC pattern.
 
 As a reminder, MVC is a pattern defining a web app in three parts:
