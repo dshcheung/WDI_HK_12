@@ -245,3 +245,35 @@
   - [Ruby on Rails: Getting Started](http://guides.rubyonrails.org/getting_started.html)
   - [Rails Routing from the Outside in](http://guides.rubyonrails.org/routing.html)
     - Everything you need to know abour Rails Routes
+
+<a name="unit4"></a>
+## Unit 4
+
+<a name="week10"></a>
+### Week 10 | AngularJS
+
+| [Monday](#w10d1)                        | [Tuesday](#w10d2)                       | [Wednesday](#w10d3)                     | [Thursday](#w10d4)                        | [Friday](#w10d5)                        |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- | ----------------------------------------- | --------------------------------------- |
+| Retrospective                           | [R-Lab: Angular Controller 101][10-1B]  | [R-Lab: Angular Directives][10-2C]      | [R-Lab: Angular HTTP][10-3B]              | [R-Lab: Front-End Routing][10-4C]       |
+| -                                       | [Angular Directives][10-2A]             | [Angular HTTP][10-3A]                   | [Front-End Routing with UI Router][10-4A] | [Ionic Framework][10-5A]                |
+| LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                     | LUNCH                                   |
+| [Intro to AngularJS & Setup][10-1A]     | [ng-class and CSS Animation][10-2B]     | [Lab: Angular HTTP][10-3B]              | [Building factories with $http][10-4B]    | Project 4 Idea                          |
+| [Lab: Angular Controller 101][10-1B]    | [Lab: Angular Directives][10-2C]        | -                                       | [Lab: Front-End Routing][10-4C]           | -                                       |
+| -                                       |                                         | -                                       | -                                         | -                                       |
+
+[10-1A]: 09-angular/angular-intro-and-basic-setup                                   "Intro to AngularJS & Setup"
+[10-1B]: https://github.com/wdi-hk-12/lab-angular-controllers-101                   "Lab: Binding Controller and View (/w Hardcoded data)"
+
+[11-4A]: 09-angular/angular-custom-directives-lesson                                "Writing Custom Directives"
+[10-2A]: 09-angular/angular-directives-lesson                                       "Angular Directives"
+[10-2B]: 09-angular/angular-ng-class-css-animation-lesson                           "ng-class and CSS Animation"
+[10-2C]: https://github.com/wdi-hk-12/lab-angular-directives                        "Lab: Angular Directives"
+
+[10-3A]: 09-angular/angular-http-lesson                                             "Angular HTTP"
+[10-3B]: https://github.com/wdi-hk-12/lab-angular-http                              "Lab: Angular HTTP"
+
+[10-4A]: 09-angular/angular-ui-router-lesson                                        "Front-end Routing with UI Router"
+[10-4B]: 09-angular/angular-resource-factories-lesson                               "Building factories with $http"
+[10-4C]: https://github.com/wdi-hk-12/lab-angular-ui-router                         "Lab: Front-end Routing"
+
+[10-5A]: http://ionicframework.com/getting-started/                                 "Ionic Framework"
