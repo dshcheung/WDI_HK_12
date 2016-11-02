@@ -257,8 +257,8 @@
 | Retrospective                           | [R-Lab: Angular Controller 101][10-1B]  | [R-Lab: Angular Directives][10-2C]      | [R-Lab: Angular HTTP][10-3B]              | [R-Lab: Front-End Routing][10-4C]       |
 | -                                       | [Angular Directives][10-2A]             | [Angular HTTP][10-3A]                   | [Front-End Routing with UI Router][10-4A] | [Ionic Framework][10-5A]                |
 | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                     | LUNCH                                   |
-| [Intro to AngularJS & Setup][10-1A]     | [ng-class and CSS Animation][10-2B]     | [Lab: Angular HTTP][10-3B]              | [Building factories with $http][10-4B]    | Project 4 Idea                          |
-| [Lab: Angular Controller 101][10-1B]    | [Lab: Angular Directives][10-2C]        | -                                       | [Lab: Front-End Routing][10-4C]           | -                                       |
+| [Intro to AngularJS & Setup][10-1A]     | [ng-class and CSS Animation][10-2B]     | [Building factories with $http][10-3B]  | [I-Lab: Front-End Routing][10-4C]         | Project 4 Idea                          |
+| [Lab: Angular Controller 101][10-1B]    | [Lab: Angular Directives][10-2C]        | [Lab: Angular HTTP][10-3C]              | -                                         | -                                       |
 | -                                       |                                         | -                                       | -                                         | -                                       |
 
 [10-1A]: 09-angular/angular-intro-and-basic-setup                                   "Intro to AngularJS & Setup"
@@ -270,10 +270,10 @@
 [10-2C]: https://github.com/wdi-hk-12/lab-angular-directives                        "Lab: Angular Directives"
 
 [10-3A]: 09-angular/angular-http-lesson                                             "Angular HTTP"
-[10-3B]: https://github.com/wdi-hk-12/lab-angular-http                              "Lab: Angular HTTP"
+[10-3B]: 09-angular/angular-resource-factories-lesson                               "Building factories with $http"
+[10-3C]: https://github.com/wdi-hk-12/lab-angular-http                              "Lab: Angular HTTP"
 
 [10-4A]: 09-angular/angular-ui-router-lesson                                        "Front-end Routing with UI Router"
-[10-4B]: 09-angular/angular-resource-factories-lesson                               "Building factories with $http"
 [10-4C]: https://github.com/wdi-hk-12/lab-angular-ui-router                         "Lab: Front-end Routing"
 
 [10-5A]: http://ionicframework.com/getting-started/                                 "Ionic Framework"
